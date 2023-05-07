@@ -50,3 +50,21 @@ ul:hover > li:hover{
     float:left;
 	margin:10px 10px;
 }
+.button ul li{
+	list-style:none;
+	float:left;
+	font-size:15px;
+	margin:10px 5px;
+	padding:10px 10px;
+}
+.button ul li a {
+	color:#ffffff;
+}
+.button ul li a:hover{
+	color:#f59fd1;
+}
+a[target]{
+	background-color:#000000;
+	padding:10px;
+	text-decoration:none;
+}
